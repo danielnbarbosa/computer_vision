@@ -1,11 +1,14 @@
-#### Introduction
+## Introduction
 A collection of jupyter notebooks for working on a variety of computer vision problems.
 
 
 
+## Datasets
+
+
 #### Chest X-Ray Images
 Binary classification of chest x-rays for detecting pneumonia.
-Results:
+- Results:
 ```
 Precision: 0.8402
 Recall: 0.9974
@@ -21,7 +24,7 @@ Multi-class, multi-label classification of satellite images of the Amazon.
 
 #### Food101
 Multi-class classification of 101 types of food.
-Results:
+- Results:
 ```
 Accuracy: 85.8%.
 ```
